@@ -1,0 +1,3 @@
+rootProject.name = 'ps5OpenGL'
+
+include ':app'
